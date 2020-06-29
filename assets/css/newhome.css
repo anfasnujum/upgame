@@ -45,7 +45,12 @@ body{
   color: #ef4e41;
 }
 #about{background-color: rgba(87, 72, 113, 1);padding-bottom: 5%;padding-top: 5%;color: blanchedalmond;min-height: 30vh;}
-#about h2{color: blanchedalmond;text-align: center;font-weight: bolder;font-style: oblique;font-family: Helvetica;}
+.highlight-info{background-size: cover;color: #fff;}.highlight-info .overlay{background:/* rgba(22,160,133,0.7)*/ rgb(22,160,133);}
+.highlight-info h4{color: #fff;margin: 0.5em 0 0 0;}.stat{font-size: 100px; color: #fff; font-family: "Roboto",sans-serif; font-weight: 100; line-height: 1.42857;}
+.stat-info{font-size: 23px;font-family: "Roboto",sans-serif; font-weight: 100;}.footer{background-color: #111;color: #fff;font-size: 1em;color: #aaa;}
+.footer a{color: #aaa;margin: 0 1em;}
+
+#about h2{color: blanchedalmond;text-align: center;}
 
 #contact{min-height: 20vh;background-color: #150D1A ;padding-bottom: 5%;padding-top: 5%;color: blanchedalmond;min-height: 30vh;}
 
@@ -65,6 +70,9 @@ body{
 #instagram_button > i:hover{color: #3b5998;}
 #linkedin_button > i:hover{color: #3b5998;}
 #mail_button > i:hover{color: #3b5998;}
+
+.gototop{position: fixed;bottom: 20px;right: 20px;background: rgba(0,0,0,0.1);padding: 10px;color: #fff;}
+.gototop i{line-height: 0.5em;}
 
 #swiper {
   min-width: 100vh;

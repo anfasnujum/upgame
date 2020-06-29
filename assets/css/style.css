@@ -23,19 +23,7 @@ body{color: #333;font: 300 15px/15px Roboto,Arial,Helvetica;-webkit-font-smoothi
 .testimonails img{margin-top: 5px;}.testimonails span{color: #888;}.testimonails span b{font-weight: 400;}
 .carousel-indicators li{border: 1px solid #f3c024;}.carousel-indicators{bottom: 0;}
 
-#about{padding-bottom: 6em;background-color: rgb(22,160,133);color: #fff;width: 100%;}
-.highlight-info{background-size: cover;color: #fff;}.highlight-info .overlay{background:/* rgba(22,160,133,0.7)*/ rgb(22,160,133);}
-.highlight-info h4{color: #fff;margin: 0.5em 0 0 0;}.stat{font-size: 100px; color: #fff; font-family: "Roboto",sans-serif; font-weight: 100; line-height: 1.42857;}
-.stat-info{font-size: 23px;font-family: "Roboto",sans-serif; font-weight: 100;}.footer{background-color: #111;color: #fff;font-size: 1em;color: #aaa;}
-.footer a{color: #aaa;margin: 0 1em;}
 
-#facebook_button > i:hover{color: #3b5998;}
-#instagram_button > i:hover{color: #3b5998;}
-#linkedin_button > i:hover{color: #3b5998;}
-#mail_button > i:hover{color: #3b5998;}
-
-.gototop{position: fixed;bottom: 20px;right: 20px;background: rgba(0,0,0,0.1);padding: 10px;color: #fff;}
-.gototop i{line-height: 0.5em;}
 
 #particles-js{position: fixed; width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover; background-color: #ffffff; background-position: 50% 50%; z-index: -1000;}
 .navbar-brand{padding-top: 11px;}.services ul li{margin:0 0.5em;}}@media (max-width: 900px){h1{font: 700 3.5em Roboto,Arial,Helvetica;}h4{font: 300 1.3em Roboto,Arial,Helvetica;}.btn{padding: 1em 2em;}
