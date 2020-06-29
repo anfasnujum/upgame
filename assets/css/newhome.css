@@ -55,6 +55,8 @@ body{
 #contact{min-height: 20vh;background-color: #150D1A ;padding-bottom: 5%;padding-top: 5%;color: blanchedalmond;min-height: 30vh;}
 
 
+#who > h1{text-align: center;font-size: x-large;}
+
 
 .square{-moz-box-shadow:    inset 0 0 50px #141c5a;
   -webkit-box-shadow: inset 0 0 50px #141c5a;
