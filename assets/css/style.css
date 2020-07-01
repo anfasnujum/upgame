@@ -6,7 +6,7 @@ body{color: #333;font: 300 15px/15px Roboto,Arial,Helvetica;-webkit-font-smoothi
 .btn-default:hover,.btn-default:active{background: rgba(0,0,0,0.8);}
 .btn-primary{color: #fff;background: #e89f10;width: 100%;outline: none;}
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{background: #f3c024;box-shadow: none;}
-.navbar-nav > li > a{font-size: 1em;line-height: 3.6em;}
+.
 .navbar-fixed-top{top: 0px;}
 .navbar-inverse{background: #FFF;border-color: #FFF;}
 .navbar-inverse .navbar-nav > .active > a,.navbar-inverse .navbar-nav > .active > a:hover,.navbar-inverse .navbar-nav > .active > a:focus{background: none;color: #3c2b62;}
