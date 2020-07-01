@@ -21,8 +21,8 @@ body{
   color: #ef4e41;font: 300 15px/15px Roboto,Arial,Helvetica;-webkit-font-smoothing: antialiased;background-color: transparent;overflow-x: hidden;}a{color: #ef4e41;text-decoration: none;}a:hover{color: #ef4e41;
 }
 
-#topbar{height: 4ex;vertical-align: middle;padding-top: 0; color:   #4B0082}
-.navbar-nav > li > a{font-size: 1em;line-height: 2em;}
+#topbar{height: 2ex;vertical-align: middle;padding-top: 0; color:   #4B0082}
+.navbar-nav > li > a{font-size: 1em;line-height: 2.5em;}
 .navbar-fixed-top{top: 0px;}
 .navbar-inverse{background: #FFF;border-color: #FFF;}
 .navbar-inverse .navbar-nav > .active > a,.navbar-inverse .navbar-nav > .active > a:hover,.navbar-inverse .navbar-nav > .active > a:focus{background: none;color: #3c2b62;}
